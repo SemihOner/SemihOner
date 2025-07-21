@@ -42,6 +42,9 @@ Hi! I'm Semih. I studied Computer Programming at Biruni University and focused o
   <a href="https://github.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img height="24" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </a>
