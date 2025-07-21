@@ -39,9 +39,6 @@ Hi! I'm Semih. I studied Computer Programming at Biruni University and focused o
   <a href="https://cucumber.io/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
   </a>
-  <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Xray-2E9FFF?style=flat-square"/>
-  </a>
   <a href="https://github.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
