@@ -1,60 +1,34 @@
-<h1 align="left">Semih Öner</h1>
+# Semih Öner
 
-<p align="left">
-  <strong>Full Stack Test Automation Engineer<br />
-</p>
+### Full Stack Test Automation Engineer
 
 ---
 
-### About Me
+## ✨ About Me
 
 Hi! I'm Semih. I studied Computer Programming at Biruni University and focused on Full Stack Test Automation Engineering during my studies.
 
 ---
 
-### ⚙️ My Technical Skills
+## 🛠️ My Technical Skills
 
-<div align="left">
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  </a>
-  <a href="https://junit.org/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/JUnit-25A162?style=flat-square"/>
-  </a>
-  <a href="" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/TestNG-FC8200?style=flat-square"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  </a>
-</div>
-
-
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
+## 📫 Contact
 
-### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semihoner)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/semih-öner-5ab479315/)
